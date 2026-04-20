@@ -67,6 +67,6 @@ jupyter notebook
 
 i otwórz plik `heart_disease_report.ipynb`.
 
-## Autor
+## Autor - Maciej Kiendyś
 
 Projekt wykonany w ramach zajęć z analizy danych / uczenia maszynowego.
